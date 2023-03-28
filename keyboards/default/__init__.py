@@ -1,0 +1,1 @@
+from .menu_keyboard import type_of_place
